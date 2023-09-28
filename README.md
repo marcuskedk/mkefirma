@@ -1,5 +1,5 @@
 # 👋 Hey du der! # 
-- 👀 Hos M.K.E Firma har vi stor viden indenfor HTML, PHP, MYSQL, CSS og JS, dermed kan vi lave kundernes hjemmeside fra bunden, uden kunderne skal tænke på noget. 
+- 👀 Her har jeg stor viden indenfor HTML, PHP, MYSQL, CSS og JS, dermed kan vi lave kundernes hjemmeside fra bunden, uden kunderne skal tænke på noget. 
 
 # Sociale medier: # 
 - Facebook: https://www.facebook.com/mke.firma
